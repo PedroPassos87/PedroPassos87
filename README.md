@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I'm currently working on Uniplay, an application that helps people create friendships through online games
-- 🌱 I’m currently learning JS and Game Development
+- 🌱 I’m currently learning JS and Web Development
 
 
 <div>
