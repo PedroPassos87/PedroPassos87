@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Pedro Passos
 ##
 
-- 🔭 Software Engineer
+- 🔭 Software Engineering student at INATEL
 - 🌱 I’m currently learning Web Development
 - 
 
