@@ -2,8 +2,8 @@
 ##
 
 - 🔭 Software Engineering student at INATEL
-- 🌱 I’m currently learning Web Development
-- 
+- 🌱 I'm currently focused on learning about quality assurance
+  
 
 
 <div>
