@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Software Engineering student at INATEL
-- 🌱 I'm currently focused on learning about quality assurance
+- 🌱 I'm currently focused on learning about Quality Assurance and Game Design
   
 
 
