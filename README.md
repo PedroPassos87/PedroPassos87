@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,githubactions,jenkins,cypress,postman,cpp,cs,java,js,py,androidstudio,flutter,unity,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,githubactions,jenkins,cypress,postman,cpp,cs,java,js,ts,py,androidstudio,flutter,react,unity,mysql" />
   </a>
 </p>
 
