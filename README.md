@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Passos</h1>
 
 - 🖥️ Software Engineering student at INATEL
-- 🔭 I'm currently focused on learning about Quality Assurance, CI/CD and Game Development
+- 🔭 I'm currently focused on **CI/CD**, **DevOps**, and **backend programming**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,githubactions,jenkins,cypress,postman,cpp,cs,java,js,ts,py,androidstudio,flutter,react,unity,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,githubactions,jenkins,cypress,postman,cpp,cs,java,js,ts,py,androidstudio,flutter,react,unity,mysql,aws" />
   </a>
 </p>
 
