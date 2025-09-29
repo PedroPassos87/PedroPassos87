@@ -6,7 +6,7 @@
 
 🎓 I'm currently studying Software Engineering at INATEL 
 
-🚀 Focused on learning **DevOps** best practices and becoming a **Fullstack Developer**.
+🚀 Focused on learning **Data Analysis** techniques and **DevOps** best practices..
 
 ---
 
@@ -21,7 +21,6 @@
 - Docker, GitHub Actions and Jenkins for CI/CD
 - Cloud fundamentals (AWS)
 - Fullstack development with **React**, **Node.js**, **C#/.NET** and **Python**
-- Automated testing with **Cypress** and **Postman**
 
 ---
 <h3 align="left">Languages and Tools:</h3>
