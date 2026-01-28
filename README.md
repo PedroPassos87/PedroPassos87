@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pedro Passos</h1>
 
-<p align="center">💻 Software Engineering student | 🌐 Aspiring Fullstack Developer | ⚙️ DevOps enthusiast</p>
+<p align="center">💻 Software Engineer| 🌐 Aspiring Fullstack Developer | ⚙️ Gamedev</p>
 
 ---
 
-🎓 I'm currently studying Software Engineering at INATEL 
-
-🚀 Focused on learning **Data Analysis** techniques and **DevOps** best practices..
+🚀 Focused on learning **Java Spring Boot** techniques and **DevOps** best practices..
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pedropassos07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe oral" height="30" width="40" /></a>
-<a href="https://www.behance.net/pedropassos" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/behance.svg"alt="efe oral" height="30" width="40" /></a></p>
+<a href="https://www.behance.net/pedropassos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/behance.svg"alt="efe oral" height="30" width="40" /></a></p>
 
 ---
 
 ### 🧠 Currently learning
 - Docker, GitHub Actions and Jenkins for CI/CD
 - Cloud fundamentals (AWS)
-- Fullstack development with **React**, **Node.js**, **C#/.NET** and **Python**
+- Fullstack development with **React**, **Node.js**, **Spring Boot** and **Python**
+- Game development with Unity
 
 ---
 <h3 align="left">Languages and Tools:</h3>
