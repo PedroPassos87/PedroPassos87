@@ -4,10 +4,6 @@
 
 ---
 
-🚀 Focused on learning **Java Spring Boot** techniques and **DevOps** best practices..
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pedropassos07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe oral" height="30" width="40" /></a>
@@ -16,6 +12,7 @@
 ---
 
 ### 🧠 Currently learning
+- QA
 - Docker, GitHub Actions and Jenkins for CI/CD
 - Cloud fundamentals (AWS)
 - Fullstack development with **React**, **Node.js**, **Spring Boot** and **Python**
